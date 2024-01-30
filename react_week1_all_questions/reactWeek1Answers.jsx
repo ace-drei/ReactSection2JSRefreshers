@@ -137,3 +137,71 @@
 // };
 
 // console.log(extendUser);
+
+// if (10 === 10){
+//     //...
+// }
+
+// else if{
+
+// }
+
+//user imput
+// const password = prompt("Your password ");
+
+// if (password === "Hello") {
+//   console.log("Hello Works");
+// } else if (password === "hello") {
+//   console.log("hello works");
+// } else {
+//   console.log("access not grantedello");
+// }
+
+// let hobbies = ["Sports", "Cookies", "Fucking"];
+
+// for (const hobby of hobbies) {
+//   console.log(hobby);
+// }
+
+// document.querySelector("ul");
+// list.remove();
+
+//passing functions as values
+// function handletimeout() {
+//   console.log("Timed out!");
+// }
+
+// const handletimeout2 = () => {
+//   console.log("Timeout again!");
+// };
+
+// setTimeout(handletimeout, 2000);
+// setTimeout(handletimeout2, 3000);
+// setTimeout(() => {
+//   console.log("The timeout is too much");
+// }, 5000);
+
+// function greeter(greetFn) {
+//   greetFn();
+// }
+
+// greeter(() => console.log("Hi"));
+
+// function init() {
+//   function greet() {
+//     console.log("Hi");
+//   }
+//   greet();
+// }
+
+// init();
+
+// let userMessage = "Hello!";
+
+// userMessage = "Hello there!";
+
+// const message = "Hello";
+
+// const hobbies = ["sports", "cooking"];
+// hobbies.push("studying");
+// console.log(hobbies);
